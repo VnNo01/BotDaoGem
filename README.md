@@ -6,14 +6,15 @@ App đã có sẵn mọi thứ cần thiết (Python, thư viện, mô hình nh�
 
 ## Tải về
 
-👉 **[Trang tải bản mới nhất](https://github.com/VnNo01/BotDaoGem/releases/latest)**
+👉 **[Trang tải bản mới nhất](https://github.com/VnNo01/BotDaoGem/releases/latest)** — tải file `BotDaoGem-Setup-….exe`.
 
-| File | Dùng khi |
-|---|---|
-| `BotDaoGem-Setup-….exe` | **Nên dùng.** Bấm đúp → Next → Install. Không cần quyền admin, tự tạo biểu tượng ngoài Desktop. Cài bản mới đè bản cũ vẫn giữ tài khoản và vùng đã đặt. |
-| `BotDaoGem-….zip` | Bản giải nén chạy luôn: giải nén vào Documents hoặc Desktop (không để trong Program Files), rồi mở `BotDaoGem.exe`. |
+Bấm đúp file vừa tải → **nhập mã cài** được cấp (chữ HOA, có dấu gạch ngang) → Next → Install. Không cần quyền admin, tự tạo biểu tượng ngoài Desktop. Cài bản mới đè bản cũ vẫn giữ tài khoản và vùng đã đặt.
 
-Lần đầu mở, Windows có thể báo *"Windows protected your PC"*: bấm **More info → Run anyway**.
+- **Cần mã mới cài được.** Mỗi lần chạy bộ cài đều hỏi mã; không có mã thì không cài và không giải nén được.
+- **Dùng thử 5 ngày.** Mã cài cho dùng thử 5 ngày, tính từ lần đầu mở app trên máy. Hết 5 ngày app tự khóa và hỏi **mã vĩnh viễn**; nhập đúng một lần là máy đó dùng mãi, không hỏi lại. Gỡ rồi cài lại không được tính lại 5 ngày.
+- Liên hệ người bán để nhận mã cài và mã vĩnh viễn.
+
+Lần đầu chạy, Windows có thể báo *"Windows protected your PC"*: bấm **More info → Run anyway**.
 
 ## Cài đặt LDPlayer (mỗi máy ảo)
 
